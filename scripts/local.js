@@ -71,7 +71,7 @@ var lang = {
 		THURSDAY: 'Thursday',
 		FRIDAY: 'Friday',
 		SATURDAY: 'Saturday',
-		SUNDAY: 'Wednesday',
+		SUNDAY: 'Sunday',
 		TODAY: 'Today',
 		YESTERDAY: 'Yesterday',
 		LAST_WEEK: 'Last Week',
